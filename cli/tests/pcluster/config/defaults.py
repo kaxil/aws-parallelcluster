@@ -156,7 +156,7 @@ class DefaultDict(Enum):
 # ------------------ Default CFN parameters ------------------ #
 
 # number of CFN parameters created by the PclusterConfig object.
-CFN_CONFIG_NUM_OF_PARAMS = 57
+CFN_CONFIG_NUM_OF_PARAMS = 58
 
 # CFN parameters created by the pcluster CLI
 CFN_CLI_RESERVED_PARAMS = ["ResourcesS3Bucket"]
